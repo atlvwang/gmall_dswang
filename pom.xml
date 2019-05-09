@@ -11,7 +11,8 @@
     <modules>
         <module>gmall-common</module>
         <module>gmall-api</module>
-    </modules>
 
+    </modules>
+    
 
 </project>
